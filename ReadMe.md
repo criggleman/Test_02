@@ -2,6 +2,6 @@ Here's some text.
 
 Here's more text.
 
-Here' another edit.
+Here's my edit.
 
-Removed first edit.
+Here' another edit.
