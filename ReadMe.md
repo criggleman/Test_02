@@ -5,5 +5,3 @@ Here's more text.
 Here's my edit.
 
 Here' another edit.
-
-try out my rollback.
